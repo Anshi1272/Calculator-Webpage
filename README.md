@@ -1,2 +1,3 @@
 # Calculator-Webpage
-Using HTML,CSS and JS
+Click on this below link to calculate simple calculations👇🏼👇🏼👇🏼
+https://github.com/Anshi1272/Calculator-Webpage
